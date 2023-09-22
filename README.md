@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WHITEGOD11
 - 👀 I’m website developer and more
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Nothing 
 - 📫 How to reach me my business email- help.skullgalaxy.fun@gamil.com
 -  📊 Experience:
 -   IN 20+ SERVER NAME ARE HERE
@@ -14,6 +14,7 @@
     8. EXTORTION MC
     9. SKULL GALAXY
     10. MEGAALVE MC
+    11. Alive Pvp
  - 🔗|Links: MY EMAIL / DISCORD NAME- white_god_ 
  - 🧑‍💻 |Known Coding Language :
         1.Python
